@@ -1,4 +1,4 @@
-module github.com/FDKevin0/oracle
+module github.com/setcy/oracle
 
 go 1.17
 
